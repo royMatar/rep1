@@ -1,9 +1,5 @@
 Name: Roy Matar
 
-Email: roy.mattar@outlook.com / roy.matar@iptpowertech.com
-       
-Address: Beirut, Lebanon
+Email: roy.mattar@outlook.com
 
-PN: +9613126636
 
-Career: Mechanical Engineer / Full Stack Web Developer
